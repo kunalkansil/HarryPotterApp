@@ -1,2 +1,2 @@
-# ReadingApp
-Book reading app
+# HarryPotterApp
+Harry Potter app
